@@ -1,4 +1,6 @@
 # sqlalchemy-challenge
+**Python, NumPy, SciPy, Matplotlib, SQLAlchemy, Flask**
+
 In this challenge, we were given precipitation and temperature observations in Hawaii across nine weather stations. The data set included daily measurements over a span of 8-9 years.
 
 I used a [SQLAlchemy ORM](https://www.sqlalchemy.org/) to automap a SQLite database into Python and query from it. For analysis, I used Pandas, Matplotlib, and Python datetime extensively.
